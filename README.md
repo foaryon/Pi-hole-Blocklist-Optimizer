@@ -31,7 +31,7 @@ A powerful tool for downloading, optimizing, and organizing Pi-hole blocklists.
 1. Clone or download this repository:
 
 ```bash
-git clone https://github.com/yourusername/pihole-blocklist-downloader.git
+git clone https://github.com/zachlagden/Pi-hole-Blocklist-Optimizer
 cd pihole-blocklist-downloader
 ```
 
