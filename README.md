@@ -11,33 +11,33 @@
 
 **A powerful and efficient tool for downloading, optimizing, and organizing blocklists for [Pi-hole](https://pi-hole.net/)**
 
-[Key Features](#key-features) •
-[Installation](#installation) •
-[Quick Start](#quick-start) •
-[Configuration](#configuration) •
-[Usage](#usage) •
-[Documentation](#usage) •
-[Contributing](#contributing)
+[Key Features](#-key-features) •
+[Installation](#-installation) •
+[Quick Start](#-quick-start) •
+[Configuration](#️-configuration) •
+[Usage](#️-usage) •
+[Documentation](https://github.com/zachlagden/Pi-hole-Blocklist-Optimizer/wiki) •
+[Contributing](#-contributing)
 
 </div>
 
 ## 📋 Table of Contents
 
-- [What Does This Tool Do?](#what-does-this-tool-do)
-- [Key Features](#key-features)
-- [System Requirements](#system-requirements)
-- [Installation](#installation)
-- [Quick Start](#quick-start)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Output Directory Structure](#output-directory-structure)
-- [Using with Pi-hole](#using-with-pi-hole)
-- [Performance Notes](#performance-notes)
-- [Screenshots](#screenshots)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+- [What Does This Tool Do?](#-what-does-this-tool-do)
+- [Key Features](#-key-features)
+- [System Requirements](#-system-requirements)
+- [Installation](#-installation)
+- [Quick Start](#-quick-start)
+- [Configuration](#️-configuration)
+- [Usage](#️-usage)
+- [Output Directory Structure](#-output-directory-structure)
+- [Using with Pi-hole](#-using-with-pi-hole)
+- [Performance Notes](#-performance-notes)
+- [Screenshots](#-screenshots)
+- [Troubleshooting](#-troubleshooting)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Acknowledgements](#-acknowledgements)
 
 ## 🔍 What Does This Tool Do?
 
