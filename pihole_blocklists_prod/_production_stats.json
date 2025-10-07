@@ -1,33 +1,17 @@
 {
-  "generated": "2025-10-07 15:17:21",
+  "generated": "2025-10-07 23:40:32",
   "master_list": {
     "path": "C:\\Pi_Hole_adblocking\\Pi-hole-Blocklist-Optimizer\\pihole_blocklists_prod\\all_domains.txt",
-    "domains": 8939098
+    "domains": 9290725
   },
   "categories": {
-    "comprehensive": {
-      "path": "C:\\Pi_Hole_adblocking\\Pi-hole-Blocklist-Optimizer\\pihole_blocklists_prod\\comprehensive.txt",
-      "domains": 91268
-    },
     "advertising": {
       "path": "C:\\Pi_Hole_adblocking\\Pi-hole-Blocklist-Optimizer\\pihole_blocklists_prod\\advertising.txt",
-      "domains": 194383
-    },
-    "tracking": {
-      "path": "C:\\Pi_Hole_adblocking\\Pi-hole-Blocklist-Optimizer\\pihole_blocklists_prod\\tracking.txt",
-      "domains": 88734
-    },
-    "suspicious": {
-      "path": "C:\\Pi_Hole_adblocking\\Pi-hole-Blocklist-Optimizer\\pihole_blocklists_prod\\suspicious.txt",
-      "domains": 150472
-    },
-    "nsfw": {
-      "path": "C:\\Pi_Hole_adblocking\\Pi-hole-Blocklist-Optimizer\\pihole_blocklists_prod\\nsfw.txt",
-      "domains": 4648041
+      "domains": 9185698
     },
     "malicious": {
       "path": "C:\\Pi_Hole_adblocking\\Pi-hole-Blocklist-Optimizer\\pihole_blocklists_prod\\malicious.txt",
-      "domains": 4002716
+      "domains": 4982846
     }
   }
 }
