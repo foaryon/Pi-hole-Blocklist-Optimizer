@@ -1,3 +1,4 @@
 venv/
 pihole_blocklists/
-pihole_blocklists_prod/
+pihole_downloader.log
+pihole_blocklists_prod/alldomains.txt

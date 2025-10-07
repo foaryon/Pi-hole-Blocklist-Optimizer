@@ -435,3 +435,280 @@ Processing complete in 80.24 seconds
 Optimized blocklists saved to: C:\Users\lagde\OneDrive\Desktop\New folder\pihole_blocklists
 2025-03-15 15:56:53,988 - INFO - Production blocklists saved to: C:\Users\lagde\OneDrive\Desktop\New folder\pihole_blocklists_prod
 2025-03-15 15:56:53,989 - INFO - Statistics report saved to: pihole_blocklists\blocklist_stats.txt
+2025-10-07 14:42:30,021 - INFO - Loading configuration from blocklists.conf
+2025-10-07 14:42:30,022 - INFO - Loaded 82 blocklists in 6 categories
+2025-10-07 14:42:30,022 - INFO - Created base directory: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists
+2025-10-07 14:42:30,023 - INFO - Created production directory: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists_prod
+2025-10-07 14:42:30,023 - INFO - Processing 82 blocklists with 4 threads
+2025-10-07 14:42:30,024 - INFO - Processing: stevenblack_unified (comprehensive)
+2025-10-07 14:42:30,024 - INFO - Processing: oisd_big (comprehensive)
+2025-10-07 14:42:30,025 - INFO - Processing: hostsvn (comprehensive)
+2025-10-07 14:42:30,025 - INFO - Processing: adaway (advertising)
+2025-10-07 14:42:30,419 - INFO -   Optimized: 6540 domains
+2025-10-07 14:42:30,419 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\advertising\adaway.txt
+2025-10-07 14:42:30,420 - INFO - Processing: adguard_dns (advertising)
+2025-10-07 14:42:30,466 - INFO -   Optimized: 19034 domains
+2025-10-07 14:42:30,466 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\comprehensive\hostsvn.txt
+2025-10-07 14:42:30,467 - INFO - Processing: admiral (advertising)
+2025-10-07 14:42:30,658 - INFO -   Optimized: 79981 domains
+2025-10-07 14:42:30,658 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\comprehensive\stevenblack_unified.txt
+2025-10-07 14:42:30,660 - INFO - Processing: anudeep_adservers (advertising)
+2025-10-07 14:42:30,792 - INFO -   Optimized: 1758 domains
+2025-10-07 14:42:30,793 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\advertising\admiral.txt
+2025-10-07 14:42:30,793 - INFO - Processing: easylist (advertising)
+2025-10-07 14:42:31,153 - INFO -   Optimized: 138162 domains
+2025-10-07 14:42:31,153 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\advertising\adguard_dns.txt
+2025-10-07 14:42:31,154 - INFO - Processing: yoyo_adservers (advertising)
+2025-10-07 14:42:31,264 - INFO -   Optimized: 42348 domains
+2025-10-07 14:42:31,264 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\advertising\anudeep_adservers.txt
+2025-10-07 14:42:31,265 - INFO - Processing: unchecky_ads (advertising)
+2025-10-07 14:42:31,356 - INFO -   Optimized: 39435 domains
+2025-10-07 14:42:31,356 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\advertising\easylist.txt
+2025-10-07 14:42:31,357 - INFO - Processing: hostsvn_ads (advertising)
+2025-10-07 14:42:31,580 - INFO -   Optimized: 3444 domains
+2025-10-07 14:42:31,580 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\advertising\yoyo_adservers.txt
+2025-10-07 14:42:31,581 - INFO - Processing: easyprivacy (tracking)
+2025-10-07 14:42:31,590 - INFO -   Optimized: 9 domains
+2025-10-07 14:42:31,590 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\advertising\unchecky_ads.txt
+2025-10-07 14:42:31,591 - INFO - Processing: prigent_ads_tracking (tracking)
+2025-10-07 14:42:31,779 - INFO -   Optimized: 19034 domains
+2025-10-07 14:42:31,779 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\advertising\hostsvn_ads.txt
+2025-10-07 14:42:31,780 - INFO - Processing: 2o7net_trackers (tracking)
+2025-10-07 14:42:31,891 - INFO -   Optimized: 4270 domains
+2025-10-07 14:42:31,891 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\tracking\prigent_ads_tracking.txt
+2025-10-07 14:42:31,892 - INFO - Processing: windows_spy_blocker (tracking)
+2025-10-07 14:42:31,983 - INFO -   Optimized: 42016 domains
+2025-10-07 14:42:31,983 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\tracking\easyprivacy.txt
+2025-10-07 14:42:31,984 - INFO - Processing: firstparty_trackers (tracking)
+2025-10-07 14:42:32,077 - INFO -   Optimized: 2030 domains
+2025-10-07 14:42:32,077 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\tracking\2o7net_trackers.txt
+2025-10-07 14:42:32,078 - INFO - Processing: android_tracking (tracking)
+2025-10-07 14:42:32,193 - INFO -   Optimized: 347 domains
+2025-10-07 14:42:32,193 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\tracking\windows_spy_blocker.txt
+2025-10-07 14:42:32,194 - INFO - Processing: smarttv_tracking (tracking)
+2025-10-07 14:42:32,350 - INFO -   Optimized: 80 domains
+2025-10-07 14:42:32,350 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\tracking\android_tracking.txt
+2025-10-07 14:42:32,351 - INFO - Processing: firetv_tracking (tracking)
+2025-10-07 14:42:32,566 - INFO -   Optimized: 241 domains
+2025-10-07 14:42:32,566 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\tracking\smarttv_tracking.txt
+2025-10-07 14:42:32,567 - INFO - Processing: notrack_blocklist (tracking)
+2025-10-07 14:42:32,595 - INFO -   Optimized: 16 domains
+2025-10-07 14:42:32,595 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\tracking\firetv_tracking.txt
+2025-10-07 14:42:32,596 - INFO - Processing: polish_kad_hosts (suspicious)
+2025-10-07 14:42:33,060 - INFO -   Optimized: 15645 domains
+2025-10-07 14:42:33,090 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\tracking\notrack_blocklist.txt
+2025-10-07 14:42:33,111 - INFO - Processing: fademind_spam (suspicious)
+2025-10-07 14:42:33,114 - INFO -   Optimized: 52510 domains
+2025-10-07 14:42:33,114 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\suspicious\polish_kad_hosts.txt
+2025-10-07 14:42:33,116 - INFO - Processing: w3kbl (suspicious)
+2025-10-07 14:42:33,408 - INFO -   Optimized: 57 domains
+2025-10-07 14:42:33,408 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\suspicious\fademind_spam.txt
+2025-10-07 14:42:33,409 - INFO - Processing: matomo_spam (suspicious)
+2025-10-07 14:42:33,419 - INFO -   Optimized: 350 domains
+2025-10-07 14:42:33,419 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\suspicious\w3kbl.txt
+2025-10-07 14:42:33,420 - INFO - Processing: someonewhocares (suspicious)
+2025-10-07 14:42:33,707 - INFO -   Optimized: 2314 domains
+2025-10-07 14:42:33,708 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\suspicious\matomo_spam.txt
+2025-10-07 14:42:33,708 - INFO - Processing: velesila (suspicious)
+2025-10-07 14:42:33,746 - INFO -   Optimized: 11808 domains
+2025-10-07 14:42:33,746 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\suspicious\someonewhocares.txt
+2025-10-07 14:42:33,748 - INFO - Processing: winhelp2002 (suspicious)
+2025-10-07 14:42:34,150 - INFO -   Optimized: 6418 domains
+2025-10-07 14:42:34,150 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\suspicious\velesila.txt
+2025-10-07 14:42:34,151 - INFO - Processing: neohosts (suspicious)
+2025-10-07 14:42:34,402 - INFO -   Optimized: 2411 domains
+2025-10-07 14:42:34,402 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\suspicious\neohosts.txt
+2025-10-07 14:42:34,403 - INFO - Processing: snafu (suspicious)
+2025-10-07 14:42:34,877 - INFO -   Optimized: 69196 domains
+2025-10-07 14:42:34,877 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\suspicious\snafu.txt
+2025-10-07 14:42:34,878 - INFO - Processing: barbblock (suspicious)
+2025-10-07 14:42:35,005 - INFO -   Optimized: 8728 domains
+2025-10-07 14:42:35,005 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\suspicious\winhelp2002.txt
+2025-10-07 14:42:35,006 - INFO - Processing: dandelion_antimalware (malicious)
+2025-10-07 14:42:35,159 - INFO -   Optimized: 544 domains
+2025-10-07 14:42:35,159 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\suspicious\barbblock.txt
+2025-10-07 14:42:35,160 - INFO - Processing: prigent_crypto (malicious)
+2025-10-07 14:42:35,397 - INFO -   Optimized: 26369 domains
+2025-10-07 14:42:35,397 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\malicious\dandelion_antimalware.txt
+2025-10-07 14:42:35,398 - INFO - Processing: risk_hosts (malicious)
+2025-10-07 14:42:35,481 - INFO -   Optimized: 16291 domains
+2025-10-07 14:42:35,482 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\malicious\prigent_crypto.txt
+2025-10-07 14:42:35,483 - INFO - Processing: mandiant_apt1 (malicious)
+2025-10-07 14:42:35,674 - INFO -   Optimized: 2189 domains
+2025-10-07 14:42:35,674 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\malicious\risk_hosts.txt
+2025-10-07 14:42:35,675 - INFO - Processing: notrack_malware (malicious)
+2025-10-07 14:42:35,864 - INFO -   Optimized: 2046 domains
+2025-10-07 14:42:35,865 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\malicious\mandiant_apt1.txt
+2025-10-07 14:42:35,866 - INFO - Processing: rpi_malware (malicious)
+2025-10-07 14:42:35,966 - INFO -   Optimized: 149 domains
+2025-10-07 14:42:35,966 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\malicious\notrack_malware.txt
+2025-10-07 14:42:35,967 - INFO - Processing: spam404_blacklist (malicious)
+2025-10-07 14:42:36,773 - INFO -   Optimized: 236895 domains
+2025-10-07 14:42:36,773 - INFO -   Optimized: 8140 domains
+2025-10-07 14:42:36,773 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\malicious\rpi_malware.txt
+2025-10-07 14:42:36,773 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\malicious\spam404_blacklist.txt
+2025-10-07 14:42:36,775 - INFO - Processing: stalkerware_indicators (malicious)
+2025-10-07 14:42:36,776 - INFO - Processing: urlhaus_malicious (malicious)
+2025-10-07 14:42:37,053 - INFO -   Optimized: 919 domains
+2025-10-07 14:42:37,053 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\malicious\stalkerware_indicators.txt
+2025-10-07 14:42:37,054 - INFO - Processing: malware_filter_phishing (malicious)
+2025-10-07 14:42:37,108 - INFO -   Optimized: 723 domains
+2025-10-07 14:42:37,108 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\malicious\urlhaus_malicious.txt
+2025-10-07 14:42:37,110 - INFO - Processing: prigent_malware (malicious)
+2025-10-07 14:42:37,956 - INFO -   Optimized: 241054 domains
+2025-10-07 14:42:37,956 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\malicious\prigent_malware.txt
+2025-10-07 14:42:37,957 - INFO - Processing: scams_wildcard (malicious)
+2025-10-07 14:42:38,025 - INFO -   Optimized: 23323 domains
+2025-10-07 14:42:38,025 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\malicious\malware_filter_phishing.txt
+2025-10-07 14:42:38,026 - INFO - Processing: rpi_phishing (malicious)
+2025-10-07 14:42:41,383 - INFO -   Optimized: 864781 domains
+2025-10-07 14:42:41,383 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\malicious\rpi_phishing.txt
+2025-10-07 14:42:41,385 - INFO - Processing: porn_top1m (nsfw)
+2025-10-07 14:42:42,572 - INFO -   Optimized: 11868 domains
+2025-10-07 14:42:42,609 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\nsfw\porn_top1m.txt
+2025-10-07 14:42:42,775 - INFO - Processing: prigent_adult (nsfw)
+2025-10-07 14:42:42,849 - INFO -   Optimized: 468729 domains
+2025-10-07 14:42:42,850 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\malicious\scams_wildcard.txt
+2025-10-07 14:42:42,852 - INFO - Processing: oisd_nsfw (nsfw)
+2025-10-07 14:42:56,447 - INFO -   Optimized: 32573 domains
+2025-10-07 14:42:56,447 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\tracking\firstparty_trackers.txt
+2025-10-07 14:42:56,449 - INFO - Processing: hagezi (suspicious)
+2025-10-07 14:42:56,457 - INFO -   Optimized: 4642031 domains
+2025-10-07 14:42:56,457 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\nsfw\prigent_adult.txt
+2025-10-07 14:42:56,465 - INFO - Processing: hagezi (suspicious)
+2025-10-07 14:42:56,956 - INFO -   Optimized: 179 domains
+2025-10-07 14:42:56,956 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\suspicious\hagezi.txt
+2025-10-07 14:42:56,957 - INFO - Processing: hagezi (comprehensive)
+2025-10-07 14:42:57,038 - INFO -   Optimized: 7211 domains
+2025-10-07 14:42:57,038 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\suspicious\hagezi.txt
+2025-10-07 14:42:57,039 - INFO - Processing: hagezi (malicious)
+2025-10-07 14:42:57,586 - INFO -   Optimized: 10994 domains
+2025-10-07 14:42:57,586 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\malicious\hagezi.txt
+2025-10-07 14:42:57,588 - INFO - Processing: hagezi (tracking)
+2025-10-07 14:42:57,980 - INFO -   Optimized: 1979 domains
+2025-10-07 14:42:57,980 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\tracking\hagezi.txt
+2025-10-07 14:42:57,981 - INFO - Processing: hagezi (malicious)
+2025-10-07 14:42:59,039 - INFO -   Optimized: 8342 domains
+2025-10-07 14:42:59,040 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\malicious\hagezi.txt
+2025-10-07 14:42:59,041 - INFO - Processing: hagezi (tracking)
+2025-10-07 14:42:59,042 - INFO -   Optimized: 273027 domains
+2025-10-07 14:42:59,042 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\comprehensive\hagezi.txt
+2025-10-07 14:42:59,044 - INFO - Processing: hagezi (tracking)
+2025-10-07 14:42:59,574 - INFO -   Optimized: 1469 domains
+2025-10-07 14:42:59,575 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\tracking\hagezi.txt
+2025-10-07 14:42:59,576 - INFO - Processing: hagezi (tracking)
+2025-10-07 14:42:59,590 - INFO -   Optimized: 3352 domains
+2025-10-07 14:42:59,590 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\tracking\hagezi.txt
+2025-10-07 14:42:59,592 - INFO - Processing: hagezi (tracking)
+2025-10-07 14:43:00,185 - INFO -   Optimized: 13728 domains
+2025-10-07 14:43:00,185 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\tracking\hagezi.txt
+2025-10-07 14:43:00,186 - INFO - Processing: hagezi (tracking)
+2025-10-07 14:43:00,883 - INFO -   Optimized: 2160 domains
+2025-10-07 14:43:00,884 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\tracking\hagezi.txt
+2025-10-07 14:43:00,885 - INFO - Processing: hagezi (tracking)
+2025-10-07 14:43:00,886 - INFO -   Optimized: 191784 domains
+2025-10-07 14:43:00,886 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\tracking\hagezi.txt
+2025-10-07 14:43:00,888 - INFO - Processing: hagezi (malicious)
+2025-10-07 14:43:01,380 - INFO -   Optimized: 463 domains
+2025-10-07 14:43:01,380 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\tracking\hagezi.txt
+2025-10-07 14:43:01,381 - INFO - Processing: hagezi (malicious)
+2025-10-07 14:43:13,077 - ERROR -   Error downloading https://big.oisd.nl: HTTPSConnectionPool(host='big.oisd.nl', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001DE63CF0F50>, 'Connection to big.oisd.nl timed out. (connect timeout=30)'))
+2025-10-07 14:43:13,122 - INFO - Processing: hagezi (malicious)
+2025-10-07 14:43:13,725 - INFO -   Optimized: 2377546 domains
+2025-10-07 14:43:13,726 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\malicious\hagezi.txt
+2025-10-07 14:43:13,729 - INFO - Processing: hagezi (malicious)
+2025-10-07 14:43:22,377 - INFO -   Optimized: 2295377 domains
+2025-10-07 14:43:22,377 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\malicious\hagezi.txt
+2025-10-07 14:43:22,381 - INFO - Processing: hagezi (malicious)
+2025-10-07 14:43:24,936 - ERROR -   Error downloading https://nsfw.oisd.nl: HTTPSConnectionPool(host='nsfw.oisd.nl', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001DE63CF0410>, 'Connection to nsfw.oisd.nl timed out. (connect timeout=30)'))
+2025-10-07 14:43:24,968 - INFO - Processing: hagezi (tracking)
+2025-10-07 14:43:28,121 - INFO -   Optimized: 1964648 domains
+2025-10-07 14:43:28,168 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\malicious\hagezi.txt
+2025-10-07 14:43:28,231 - INFO - Processing: hagezi (malicious)
+2025-10-07 14:43:28,281 - INFO -   Optimized: 70832 domains
+2025-10-07 14:43:28,282 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\tracking\hagezi.txt
+2025-10-07 14:43:28,283 - INFO - Processing: hagezi (malicious)
+2025-10-07 14:43:29,048 - INFO -   Optimized: 7 domains
+2025-10-07 14:43:29,111 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\malicious\hagezi.txt
+2025-10-07 14:43:29,175 - INFO - Processing: hagezi (malicious)
+2025-10-07 14:43:29,316 - INFO -   Optimized: 7 domains
+2025-10-07 14:43:29,364 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\malicious\hagezi.txt
+2025-10-07 14:43:29,460 - INFO - Processing: hagezi (malicious)
+2025-10-07 14:43:30,798 - INFO -   Optimized: 2160 domains
+2025-10-07 14:43:30,861 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\malicious\hagezi.txt
+2025-10-07 14:43:30,893 - INFO - Processing: hagezi (advertising)
+2025-10-07 14:43:32,325 - INFO -   Optimized: 323 domains
+2025-10-07 14:43:32,451 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\advertising\hagezi.txt
+2025-10-07 14:43:32,499 - INFO - Processing: hagezi (advertising)
+2025-10-07 14:43:34,402 - INFO -   Optimized: 108 domains
+2025-10-07 14:43:34,403 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\advertising\hagezi.txt
+2025-10-07 14:43:34,404 - INFO - Processing: hagezi (advertising)
+2025-10-07 14:43:34,424 - INFO -   Optimized: 1893467 domains
+2025-10-07 14:43:34,424 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\malicious\hagezi.txt
+2025-10-07 14:43:34,427 - INFO - Processing: hagezi (advertising)
+2025-10-07 14:43:34,769 - INFO -   Optimized: 123 domains
+2025-10-07 14:43:34,769 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\advertising\hagezi.txt
+2025-10-07 14:43:34,770 - INFO - Processing: hagezi (advertising)
+2025-10-07 14:43:35,362 - INFO -   Optimized: 415 domains
+2025-10-07 14:43:35,442 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\advertising\hagezi.txt
+2025-10-07 14:43:35,505 - INFO - Processing: hagezi (advertising)
+2025-10-07 14:43:36,036 - INFO -   Optimized: 204 domains
+2025-10-07 14:43:36,068 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\advertising\hagezi.txt
+2025-10-07 14:43:36,100 - INFO - Processing: hagezi (advertising)
+2025-10-07 14:43:36,636 - INFO -   Optimized: 371 domains
+2025-10-07 14:43:36,667 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\advertising\hagezi.txt
+2025-10-07 14:43:36,778 - INFO - Processing: hagezi (advertising)
+2025-10-07 14:43:37,217 - INFO -   Optimized: 463 domains
+2025-10-07 14:43:37,265 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\advertising\hagezi.txt
+2025-10-07 14:43:37,329 - INFO - Processing: hagezi (advertising)
+2025-10-07 14:43:37,846 - INFO -   Optimized: 18 domains
+2025-10-07 14:43:37,909 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\advertising\hagezi.txt
+2025-10-07 14:43:37,956 - INFO - Processing: hagezi (advertising)
+2025-10-07 14:43:38,905 - INFO -   Optimized: 74 domains
+2025-10-07 14:43:38,936 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\advertising\hagezi.txt
+2025-10-07 14:43:39,001 - INFO - Processing: hagezi (advertising)
+2025-10-07 14:43:39,174 - INFO -   Optimized: 233 domains
+2025-10-07 14:43:39,334 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\advertising\hagezi.txt
+2025-10-07 14:43:39,398 - INFO - Processing: hagezi (advertising)
+2025-10-07 14:43:40,529 - INFO -   Optimized: 354 domains
+2025-10-07 14:43:40,576 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\advertising\hagezi.txt
+2025-10-07 14:43:40,702 - INFO - Processing: osid (advertising)
+2025-10-07 14:43:40,764 - INFO -   Optimized: 360 domains
+2025-10-07 14:43:40,887 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\advertising\hagezi.txt
+2025-10-07 14:43:40,934 - INFO - Processing: osid (nsfw)
+2025-10-07 14:43:43,626 - INFO -   Optimized: 2596195 domains
+2025-10-07 14:43:43,657 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\malicious\hagezi.txt
+2025-10-07 14:43:45,049 - INFO -   Optimized: 702431 domains
+2025-10-07 14:43:45,049 - INFO -   Saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists\malicious\hagezi.txt
+2025-10-07 14:44:23,112 - ERROR -   Error downloading https://big.oisd.nl: HTTPSConnectionPool(host='big.oisd.nl', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001DE63CF3B10>, 'Connection to big.oisd.nl timed out. (connect timeout=30)'))
+2025-10-07 14:44:23,159 - ERROR -   Error downloading https://nsfw.oisd.nl: HTTPSConnectionPool(host='nsfw.oisd.nl', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001DE63CF07D0>, 'Connection to nsfw.oisd.nl timed out. (connect timeout=30)'))
+2025-10-07 14:44:23,160 - INFO - Creating production blocklists...
+2025-10-07 14:44:29,156 - INFO - Created master blocklist with 6880762 domains: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists_prod\all_domains.txt
+2025-10-07 14:44:29,243 - INFO - Created suspicious blocklist with 150472 domains: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists_prod\suspicious.txt
+2025-10-07 14:44:29,283 - INFO - Created tracking blocklist with 88734 domains: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists_prod\tracking.txt
+2025-10-07 14:44:32,449 - INFO - Created nsfw blocklist with 4648041 domains: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists_prod\nsfw.txt
+2025-10-07 14:44:33,667 - INFO - Created malicious blocklist with 1961634 domains: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists_prod\malicious.txt
+2025-10-07 14:44:33,767 - INFO - Created advertising blocklist with 194383 domains: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists_prod\advertising.txt
+2025-10-07 14:44:33,810 - INFO - Created comprehensive blocklist with 91268 domains: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists_prod\comprehensive.txt
+2025-10-07 14:44:36,556 - INFO - Production list index saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists_prod\_production_lists.txt
+2025-10-07 14:44:36,556 - INFO - Production stats saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists_prod\_production_stats.json
+2025-10-07 14:44:36,808 - INFO - Statistics report saved to: pihole_blocklists\blocklist_stats.txt
+2025-10-07 14:44:36,808 - INFO - JSON statistics saved to: pihole_blocklists\blocklist_stats.json
+2025-10-07 14:44:36,808 - INFO - Updating configuration file to disable failed lists...
+2025-10-07 14:44:36,809 - INFO - Disabled line: https://big.oisd.nl|oisd_big|comprehensive
+2025-10-07 14:44:36,809 - INFO - Disabled line: https://nsfw.oisd.nl|oisd_nsfw|nsfw
+2025-10-07 14:44:36,809 - INFO - Disabled line: https://big.oisd.nl|osid|advertising
+2025-10-07 14:44:36,809 - INFO - Disabled line: https://nsfw.oisd.nl|osid|nsfw
+2025-10-07 14:44:36,810 - INFO - Configuration file updated: blocklists.conf
+2025-10-07 14:44:36,810 - INFO - 
+Processing complete in 126.79 seconds
+2025-10-07 14:44:36,810 - INFO - Total Lists:       82
+2025-10-07 14:44:36,810 - INFO - Successful:        78
+2025-10-07 14:44:36,810 - INFO - Failed:            4
+2025-10-07 14:44:36,810 - INFO - Total Domains:     19567210
+2025-10-07 14:44:36,810 - INFO - Unique Domains:    6880762
+2025-10-07 14:44:36,810 - INFO - Duplicate Domains: 291477
+2025-10-07 14:44:36,810 - INFO - 
+Optimized blocklists saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists
+2025-10-07 14:44:36,810 - INFO - Production blocklists saved to: C:\Pi_Hole_adblocking\Pi-hole-Blocklist-Optimizer\pihole_blocklists_prod
+2025-10-07 14:44:36,811 - INFO - Statistics report saved to: pihole_blocklists\blocklist_stats.txt
