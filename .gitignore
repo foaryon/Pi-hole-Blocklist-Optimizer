@@ -1,2 +1,4 @@
 /pihole_blocklists/
 /scripts/
+*json
+*conf
