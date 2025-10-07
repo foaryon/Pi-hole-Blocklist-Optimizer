@@ -1,3 +1,2 @@
-venv/
-pihole_blocklists/
-scripts/
+/pihole_blocklists/
+/scripts/
