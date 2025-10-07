@@ -2,3 +2,7 @@ venv/
 pihole_blocklists/
 pihole_downloader.log
 pihole_blocklists_prod/alldomains.txt
+pihole_download.bat
+pihole_download.sh
+pihole_downloader.py
+README.md
